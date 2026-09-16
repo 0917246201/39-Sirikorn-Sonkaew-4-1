@@ -8,3 +8,9 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 age = int(input())
+if age>=60:
+    print("เข้าฟรี")
+elif agei>=12 and age<=59:
+    print("จ่าย100")
+else:
+    print("จ่าย50")
