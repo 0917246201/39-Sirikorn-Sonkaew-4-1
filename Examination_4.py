@@ -7,7 +7,7 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-score = int(input())
+score=int(input())
 if score >=80:
   print("A")
 elif score >=70:
